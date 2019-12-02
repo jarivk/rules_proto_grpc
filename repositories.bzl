@@ -26,7 +26,7 @@ VERSIONS = {
         "org": "grpc",
         "repo": "grpc",
         "ref": "v1.19.0",
-        "sha256": "3f6d746dc5925d80684f135013883836f6a7d015550231f332732eaab0093f7b",
+        "sha256": "1d54cd95ed276c42c276e0a3df8ab33ee41968b73af14023c03a19db48f82e73",
     },
     "zlib": {
         "type": "http",
